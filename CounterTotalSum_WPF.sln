@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CounterTotalSum_WPF", "CounterTotalSum_WPF.csproj", "{73E2949F-24E1-4A4B-87DC-7439905FC02C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73E2949F-24E1-4A4B-87DC-7439905FC02C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73E2949F-24E1-4A4B-87DC-7439905FC02C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73E2949F-24E1-4A4B-87DC-7439905FC02C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73E2949F-24E1-4A4B-87DC-7439905FC02C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8915421-0BFA-4F45-B745-FADD338EBF4F}
+	EndGlobalSection
+EndGlobal
